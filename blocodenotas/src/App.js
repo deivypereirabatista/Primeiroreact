@@ -1,5 +1,5 @@
 import Fomulario from './componenets/Fomulario';
-import ListaDeNotas from './componenets/ListaDeNotas';
+import ListaDeNotas from './componenets/ListaDeNotas/ListaDeNotas';
 
 function App() {
   return (
